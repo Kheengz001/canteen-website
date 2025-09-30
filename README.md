@@ -1,2 +1,2 @@
-# canteen-website
-a college canteen website that includes daily food menu from Breakfast and Lunch
+My Potfolio
+it describes my skills in tech
